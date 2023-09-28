@@ -1,5 +1,12 @@
 # Changelog
 
+## [15.85.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v15.85.0...v15.85.1) (2023-09-28)
+
+
+### Bug Fixes
+
+* **detect:** Detect `_TZE200_rtrmfadk` as TuYa TS0601_thermostat_1 https://github.com/Koenkk/zigbee2mqtt/issues/19103 ([edf7a49](https://github.com/Koenkk/zigbee-herdsman-converters/commit/edf7a49e00feebd98557e14610f31711ab3151c2))
+
 ## [15.85.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v15.84.0...v15.85.0) (2023-09-28)
 
 
